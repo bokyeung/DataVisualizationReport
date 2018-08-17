@@ -10,8 +10,7 @@
 * How to setup?
  > We have to reference the JavaScript file from the head of the HTML file.
  >
- > ``` <script type="text/javascript" src="d3.v2.min.js"></script>
- > ```
+ > ``` <script type="text/javascript" src="d3.v2.min.js"></script>```
  >
  > (v2 means version2, Choose d3.js for your version)
 
@@ -61,17 +60,12 @@
  > Area, Area range, Bar, Bubble, Combination, Donut, Gauge, Line, Pie, Radar, Scatter, Spline, Stacked bar, Step. (15)
 
 * How to setup?
-> Because billboard.js is d3.js based, you must first load the following script in the head of the html file.
->
-> ```<script src=https://d3js.org/d3.v4.min.js></script>
- ``` (d3.js version4)
->
-> Also download billboard.js and billboard.css from <https://naver.github.io/billboard.js> and road them.
->
-> Loads as follows
-> ```<link rel="stylesheet" href="/css/billboard.css">   
-> <script type="text/javascript" src="billboard.js"></script>
-```
+ > Because billboard.js is d3.js based, you must first load the following script in the head of the html file.
+ > ```<script src=https://d3js.org/d3.v4.min.js></script>``` (d3.js version4)
+ > Also download billboard.js and billboard.css from <https://naver.github.io/billboard.js> and road them.
+ >
+ > Loads as follows
+ > ```<link rel="stylesheet" href="/css/billboard.css">   <script type="text/javascript" src="billboard.js"></script>```
 
 * How much learning is needed to create the application code? What is the development difficulty?
  > You can easily become familiar with creating chart examples.
