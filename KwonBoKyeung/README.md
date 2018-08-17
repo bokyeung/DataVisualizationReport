@@ -1,4 +1,4 @@
-#### Written By Kwon Bo Kyeung , KOOKMIN UNIV. SW junior)
+#### Written By Kwon Bo Kyeung , KOOKMIN UNIV. SW junior
 
 ## Data Visualization
 ### : Various data visualization Web framework analysis results
@@ -11,7 +11,7 @@
  > We have to reference the JavaScript file from the head of the HTML file.
  >
  > ``` <script type="text/javascript" src="d3.v2.min.js"></script>
- ```
+ > ```
  >
  > (v2 means version2, Choose d3.js for your version)
 
